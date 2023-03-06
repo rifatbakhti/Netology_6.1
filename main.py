@@ -1,5 +1,5 @@
-from salary import salary_staff
-from people import staff
+from application.salary import salary_staff
+from application.db.people import staff
 import datetime
 
 
